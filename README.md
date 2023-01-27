@@ -18,7 +18,7 @@ The scripts will be created in the following order:
 
 This database is based on a diagram previously used for datas bicycles. This is the diagram:
 
-![](img\database_bikes.drawio.png)
+![](img/database_bikes.drawio.png)
 
 We will have 6 tables where each one will be related to each other. The tables will be:
 
@@ -35,47 +35,47 @@ The querys that we will use to create the database are the following:
 
 **Select all clients with name starting with "V"**
 
-![](img\Screenshot_1.png)
+![](img/Screenshot_1.png)
 
 
 **Select all bikes with a price higher than 8000**
 
-![](img\Screenshot_2.png)
+![](img/Screenshot_2.png)
 
 **Select all clients with mail ending with "gmail.com"**
 
-![](img\Screenshot_3.png)
+![](img/Screenshot_3.png)
 
 **Select all shops with order descending by name**
 
-![](img\Screenshot_4.png)
+![](img/Screenshot_4.png)
 
 
 **Select the minimum price of all the bikes and give the table a name called 'smallestPrice'**
 
-![](img\Screenshot_5.png)
+![](img/Screenshot_5.png)
 
 **Select all bikes with a brand Specialized and a price higher than 9000**
 
-![](img\Screenshot_6.png)
+![](img/Screenshot_6.png)
 
 
 **Select all bikes with price between 5000 and 9000**
 
-![](img\Screenshot_7.png)
+![](img/Screenshot_7.png)
 
 **Select average price of all the bikes**
 
-![](img\Screenshot_8.png)
+![](img/Screenshot_8.png)
 
 **Select with a join the tables "bikes", "shops" and "booking", to obtain information related between them**
 
-![](img\Screenshot_10.png)
+![](img/Screenshot_10.png)
 
 
 **Select how many times a store is repeated in the table "client"**
 
-![](img\Screenshot_11.png)
+![](img/Screenshot_11.png)
 
 ## Details
 
