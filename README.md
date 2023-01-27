@@ -73,9 +73,16 @@ The querys that we will use to create the database are the following:
 ![](img/Screenshot_10.png)
 
 
+
 **Select how many times a store is repeated in the table "client"**
 
 ![](img/Screenshot_11.png)
+
+
+**Select all names and lastnames of clients and concats with hello**
+
+![](img/Screenshot_12.png)
+
 
 ## Details
 
@@ -86,3 +93,4 @@ Some details to keep in mind:
 - In the **'complement'** table, each id is accompanied by the description of its complement, in this way we have a more consistent table to relate to the others, since booleans or arrays cannot be used.
 
 - The 5 words that are part of the nomenclature of a good database creation script have been used, which are: **UNIQUE, AUTO_INCREMENT, PRIMARY KEY, IF NOT EXISTS, CHECK** and **NOT NULL**.
+
