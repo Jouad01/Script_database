@@ -23,3 +23,5 @@ FROM Bikes
 JOIN Shops ON Bikes.shop_id = Shops.shop_id
 JOIN Booking ON Bikes.bike_id = Booking.bike_id
 JOIN Client ON Booking.client_id = Client.client_id;
+
+SELECT CONCAT('Hello ', name, ' ', lastname) FROM client;
